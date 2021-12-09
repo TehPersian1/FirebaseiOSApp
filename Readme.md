@@ -1,5 +1,7 @@
 Class: Fall 2021 CPSC 454-02
+
 Title: Google Cloud Platform: a Multi-Factor Authentication Application
+
 Authors: Shervin Afrasiabi, Vishva Patel, Gregory Miller, Shreeji Khalasi, John Tu
 
 # Requirements:
