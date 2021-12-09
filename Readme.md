@@ -2,10 +2,10 @@ Class: Fall 2021 CPSC 454-02
 Title: Google Cloud Platform: a Multi-Factor Authentication Application
 Authors: Shervin Afrasiabi, Vishva Patel, Gregory Miller, Shreeji Khalasi, John Tu
 
-#Requirements:#
+# Requirements:
 A machine that can run Xcode. Either a Mac or a vitual machine with iOS version 14.5 compatible operating system or higher.
 
-#How to run code:#
+# How to run code:
 
 1) Download Firebase_Frontend.zip and unzip folder
 2) In the folder open Firebase_frontend.xcworkspace file in XCode
@@ -13,7 +13,7 @@ A machine that can run Xcode. Either a Mac or a vitual machine with iOS version 
 4) Lastly, click the 'start the active scheme' button at the top left 
 
 
-#File Descriptions:#
+# File Descriptions:
 
 **View Controller:** Allows the users to login or sign up an account. Leads to either the login page or sign-up page depending on button pressed.
 
